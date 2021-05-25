@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "L/qS52bxXMTtw5ZbYxJwQApofCJNUPhQzIMnZd95stGBuYXWtAGbsNNsEeP4FnKRygTHBgDQWIgkd21uNveFsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\klusb\\Desktop\\Ny mapp (2)\\SpriteDumper\\SpriteDumper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klusb\\.nuget\\packages\\google.protobuf\\3.16.0\\google.protobuf.3.16.0.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.3.21201.4\\microsoft.netcore.platforms.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.3.21201.4\\microsoft.win32.systemevents.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\sevenzip\\19.0.0\\sevenzip.19.0.0.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.3.21201.4\\system.drawing.common.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\klusb\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

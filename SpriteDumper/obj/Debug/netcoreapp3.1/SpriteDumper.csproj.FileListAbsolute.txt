@@ -1,0 +1,44 @@
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.csprojAssemblyReference.cache
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.AssemblyInfoInputs.cache
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.AssemblyInfo.cs
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.csproj.CoreCompileInputs.cache
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.exe
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.deps.json
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.runtimeconfig.json
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.runtimeconfig.dev.json
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.pdb
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\SevenZip.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.csproj.CopyComplete
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.pdb
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.genruntimeconfig.cache
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.exe
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.deps.json
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.runtimeconfig.json
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.runtimeconfig.dev.json
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SpriteDumper.pdb
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\SevenZip.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.csprojAssemblyReference.cache
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.AssemblyInfoInputs.cache
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.AssemblyInfo.cs
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.csproj.CoreCompileInputs.cache
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.csproj.CopyComplete
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.dll
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.pdb
+C:\Users\klusb\Desktop\Ny mapp (2)\SpriteDumper\obj\Debug\netcoreapp3.1\SpriteDumper.genruntimeconfig.cache

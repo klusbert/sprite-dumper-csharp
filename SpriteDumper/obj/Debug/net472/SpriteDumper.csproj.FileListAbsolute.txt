@@ -1,0 +1,17 @@
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\SpriteDumper.exe.config
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\SpriteDumper.exe
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\SpriteDumper.pdb
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\Google.Protobuf.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\SevenZip.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\System.Buffers.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\System.Memory.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.csprojAssemblyReference.cache
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.AssemblyInfoInputs.cache
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.AssemblyInfo.cs
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.csproj.CoreCompileInputs.cache
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.csproj.CopyComplete
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.exe
+C:\Users\klusb\RiderProjects\ConsoleApp1\SpriteDumper\SpriteDumper\obj\Debug\net472\SpriteDumper.pdb

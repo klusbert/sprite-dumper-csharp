@@ -1,0 +1,160 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SpriteDumper/1.0.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.16.0",
+          "Newtonsoft.Json": "13.0.1",
+          "SevenZip": "19.0.0",
+          "System.Drawing.Common": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "SpriteDumper.dll": {}
+        }
+      },
+      "Google.Protobuf/3.16.0": {
+        "dependencies": {
+          "System.Memory": "4.5.3",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.16.0.0",
+            "fileVersion": "3.16.0.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/6.0.0-preview.3.21201.4": {},
+      "Microsoft.Win32.SystemEvents/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      },
+      "SevenZip/19.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/SevenZip.dll": {
+            "assemblyVersion": "19.0.0.0",
+            "fileVersion": "19.0.0.0"
+          }
+        }
+      },
+      "System.Drawing.Common/6.0.0-preview.3.21201.4": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0-preview.3.21201.4"
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          },
+          "runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.20104"
+          }
+        }
+      },
+      "System.Memory/4.5.3": {},
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {}
+    }
+  },
+  "libraries": {
+    "SpriteDumper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Protobuf/3.16.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h7CBKHDIQjBj0Vcnls+75evsVoQkSWVoGwTPh8jBDhNr3sbK2GWtd6jRHXdESjM81VenYYC+hPZOKnGdOyhpEQ==",
+      "path": "google.protobuf/3.16.0",
+      "hashPath": "google.protobuf.3.16.0.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5hurJj7AjVBhDMETeT2NUuU85cyfi7Ej6cNOAxmbQfS8j0oMqsu45YCcCGJYjaRX5egaUJSf2GxuB7BRvY8OTg==",
+      "path": "microsoft.netcore.platforms/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.netcore.platforms.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ryZRJ4rNc+3vgG+LHGwymy/y7EqIScywk575mtq5+chfXfqWZ/oPWGLCGbqqKBNqM8s0u9JdpyQVK9Ba/MJC/A==",
+      "path": "microsoft.win32.systemevents/6.0.0-preview.3.21201.4",
+      "hashPath": "microsoft.win32.systemevents.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "path": "newtonsoft.json/13.0.1",
+      "hashPath": "newtonsoft.json.13.0.1.nupkg.sha512"
+    },
+    "SevenZip/19.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Eeb/uvC0REvMlG1auBqlBMiFiPZs+WizlLroHPSKtBh/V7NR/qOocgk+/7S0lNzciYsurMCeJzUL7LYIqVnWw==",
+      "path": "sevenzip/19.0.0",
+      "hashPath": "sevenzip.19.0.0.nupkg.sha512"
+    },
+    "System.Drawing.Common/6.0.0-preview.3.21201.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1AnRbkmCDlAh5LQirSlWinp3PbeHXdGhGnchENFVcurVBWwqcz6ST1R+AQy79UWPNPgvC+RCy6q+eXnPxlY9Ow==",
+      "path": "system.drawing.common/6.0.0-preview.3.21201.4",
+      "hashPath": "system.drawing.common.6.0.0-preview.3.21201.4.nupkg.sha512"
+    },
+    "System.Memory/4.5.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "path": "system.memory/4.5.3",
+      "hashPath": "system.memory.4.5.3.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+    }
+  }
+}
